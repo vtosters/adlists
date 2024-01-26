@@ -10,3 +10,4 @@ s.click.aliexpress.com
 ali.ski
 fas.st
 shp.pub
+tinkoff.ru/baf
