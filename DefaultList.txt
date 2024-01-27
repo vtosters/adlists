@@ -86,7 +86,6 @@ appscent
 apps-cent
 app-cent
 appcent
-?ref=
 bitmain
 cents-apps
 cent-app
