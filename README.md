@@ -11,4 +11,4 @@
 
 ## Благодарности
 
-* Egormetlitsky: [https://github.com/egormetlitsky](https://github.com/egormetlitsky) - за активную помощь в разработке фильтров
+* [@egormetlitsky](https://github.com/egormetlitsky) - за активную помощь в разработке фильтров
