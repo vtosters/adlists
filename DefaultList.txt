@@ -84,7 +84,6 @@ ixbet
 промокод
 инвестиции
 appscent
-apps-cent
 app-cent
 appcent
 bitmain
@@ -103,13 +102,21 @@ erid=
 в комменты
 в комментах
 в к0мментах
-bonus-apps
+app-cash
+apps-b
+apps-c
+bonus-a
 bonusapp
-bonus-app
-appcashc
-appscashc
-cash-box
-cashy-box
+appcash
+appscash
+appsxcash
+cash-b
+cash-a
+cashy-b
+boxcash
+appy-c
+cashboost
+cashs-b
 реклама. чоу дпо
 реклама. ооо
 реклама. ип
