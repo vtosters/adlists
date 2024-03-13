@@ -116,6 +116,8 @@ cash-b
 cash-a
 cashy-b
 boxcash
+money-b
+box-c
 appy-c
 cashboost
 cashs-b
